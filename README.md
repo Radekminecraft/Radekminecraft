@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [WarTopia.eu](https://discord.gg/4aFWTDaaXC)
 
-- 🌱 I’m currently learning **Tailwind,Next.js,Java**
+- 🌱 I’m currently learning **Tailwindcss,Next.js,Java**
 
 - 👯 I’m looking to collaborate on **any web development**
 
