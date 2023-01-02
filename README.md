@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Radekminecraft</h1>
 <h3 align="center">I am junior web developer</h3>
 
-- 🔭 I’m currently working on [WarTopia.eu](https://discord.gg/4aFWTDaaXC)
+- 🔭 I’m currently working on [Surpriseplay.eu](https://surpriseplay.eu)
 
 - 🌱 I’m currently learning **Tailwindcss,Next.js,Java**
-
-- 👯 I’m looking to collaborate on **any web development**
-
-- 👨‍💻 All of my projects are available at [radomirvondra.tk](radomirvondra.tk)
 
 - 📫 How to reach me **radomirvondra@gmail.com**
 
