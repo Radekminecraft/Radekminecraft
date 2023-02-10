@@ -9,8 +9,8 @@
         </p>
         <p align="center">
           <a href="https://github.com/Radekminecraft/">
-          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Radekminecraft&show_icons=true&theme=gruvbox&hide_border=true" />
-          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Radekminecraft&theme=gruvbox&hide_border=true" />
+          <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Radekminecraft&show_icons=true&theme=gruvbox&hide_border=true" />
+          <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Radekminecraft&theme=gruvbox&hide_border=true" />
           </a>
        </p>
      <br>
