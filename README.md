@@ -1,7 +1,20 @@
 <h1 align="center">Hi 👋, I'm Radekminecraft</h1>
 <h3 align="center">I am junior java developer</h3>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Radekminecraft&show_icons=true" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Fungy911&theme=gruvbox&hide_border=true" />
+<div>
+    <h2 align="center"> 📊 GitHub Stats </h2>
+      <br/>
+        <p align="center">
+          <a href="https://github.com/Radekminecraft/">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Radekminecraft&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" /></a>
+        </p>
+        <p align="center">
+          <a href="https://github.com/Radekminecraft/">
+          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Radekminecraft&show_icons=true&theme=gruvbox&hide_border=true" />
+          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Radekminecraft&theme=gruvbox&hide_border=true" />
+          </a>
+       </p>
+     <br>
+  </div>    
 
 - 🔭 I’m currently working on [Surpriseplay.eu](https://surpriseplay.eu)
 
