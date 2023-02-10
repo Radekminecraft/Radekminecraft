@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Radekminecraft</h1>
 <h3 align="center">I am junior java developer</h3>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Radekminecraft&show_icons=true&theme=radical" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Radekminecraft&show_icons=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Fungy911&theme=gruvbox&hide_border=true" />
 
 - 🔭 I’m currently working on [Surpriseplay.eu](https://surpriseplay.eu)
 
