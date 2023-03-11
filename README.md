@@ -5,10 +5,6 @@
       <br/>
         <p align="center">
           <a href="https://github.com/Radekminecraft/">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Radekminecraft&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" /></a>
-        </p>
-        <p align="center">
-          <a href="https://github.com/Radekminecraft/">
           <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Radekminecraft&show_icons=true&theme=gruvbox&hide_border=true" />
           <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Radekminecraft&theme=gruvbox&hide_border=true" />
           </a>
