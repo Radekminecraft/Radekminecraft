@@ -7,6 +7,7 @@
           <a href="https://github.com/Radekminecraft/">
           <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Radekminecraft&show_icons=true&theme=gruvbox&hide_border=true" />
           <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Radekminecraft&theme=gruvbox&hide_border=true" />
+          <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Radekminecraft" />
           </a>
        </p>
      <br>
