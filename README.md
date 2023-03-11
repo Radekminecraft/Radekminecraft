@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working on [Surpriseplay.eu](https://surpriseplay.eu)
 
-- 🌱 I’m currently learning **Tailwindcss, Next.js**
+- 🌱 I’m currently learning **Spring**
 
 - 📫 How to reach me **radomirvondra@gmail.com**
 
