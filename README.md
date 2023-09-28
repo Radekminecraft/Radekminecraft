@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Radekminecraft</h1>
-<h3 align="center">I am junior java developer</h3>
+<h3 align="center">I am junior minecraft java developer</h3>
 <div>
     <h2 align="center"> 📊 GitHub Stats </h2>
       <br/>
