@@ -12,12 +12,6 @@
      <br>
   </div>    
 
-- 🔭 I’m currently working on <a href="https://codemein.tech">CodeIT (Code Me In Tech)</a>
-
-- 🌱 I’m currently learning **Spring**
-
-- 📫 How to reach me **radomirvondra@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/n0t_radek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="n0t_radek" height="30" width="40" /></a>
